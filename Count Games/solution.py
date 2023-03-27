@@ -17,8 +17,9 @@ def solution(start_time, end_time):
     end_h, end_m = map(int, end_time.split(':'))
 
     
-    # Check how many hours did the player play 
+    # Check how many hours did the player play
     if end_h < start_h:
+        # Player played overnight
         hours = 24 - start_h + end_h 
     else:
         hours = end_h - start_h
