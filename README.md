@@ -1,8 +1,8 @@
 # Coding_Challenges
 
 This repository contains solutions to programming problems encountered during various interviews.  
-Each solution is written in a clear and concise manner, along with an explanation of the approach taken to solve the problem.
-
+Each solution is written in a clear and concise manner, along with an explanation of the approach taken to solve the problem.  
+Meant for **demonstration purposes only** and not intended for use.
 ## Table of Contents
 - [Count Games](https://github.com/ch-geo/Coding_Challenges/tree/main/Count%20Games)
 - [Most Frequent Word](https://github.com/ch-geo/Coding_Challenges/tree/main/Most%20Frequent%20Word)
