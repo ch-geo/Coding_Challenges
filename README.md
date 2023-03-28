@@ -13,7 +13,7 @@ To view the solutions, simply navigate to the respective directory for each prob
 Each directory contains a solution file in the language used during the interview, 
 along with a README file that explains the problem and solution approach.
 
-## Contributing
+[comment]: <> ( ## Contributing
 If you have a solution to a programming problem encountered in an interview that is not listed here, 
 feel free to submit a pull request. Please ensure that the solution is clearly written and includes an
-explanation of the approach taken to solve the problem.
+explanation of the approach taken to solve the problem.)
