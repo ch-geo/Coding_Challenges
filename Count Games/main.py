@@ -18,6 +18,5 @@ if __name__ == '__main__':
 
     input = ["23:30", "06:15"]
     games_played = solution(input[0], input[1])
-    print(games_played)
 
 
